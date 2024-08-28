@@ -28,7 +28,7 @@ To use Safe Social, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/safe-social.git
+   git clone https://github.com/giridhar3105/safe-social.git
    ```
 
 2. Install the required dependencies:
